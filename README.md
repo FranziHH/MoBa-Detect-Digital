@@ -2,6 +2,8 @@
 
 Durch diesen [Thread: Ist eine Lok analog oder digital? Wie erkennen?](https://www.1zu160.net/scripte/forum/forum_show.php?id=1522193) auf [https://www.1zu160.net](1zu160.net) bin ich auf die Idee gekommen, dieses kleine Projekt aufzusetzen
 
+Ich habe die Schaltung um einen Spannungsregler und einen Schalter mit LED Anzeige ergänzt. Damit wird das Testgleis bis zum Aufgleisen spannungsfrei geschaltet.
+
 ## Schaltung
 
 ````
@@ -28,3 +30,5 @@ Durch diesen [Thread: Ist eine Lok analog oder digital? Wie erkennen?](https://w
 <a href="images/IMG_20261114_153341.885.png"><img src="images/IMG_20261114_153341.885.png" width="500" alt=""></a>
 
 <a href="images/IMG_20261114_153409.230.png"><img src="images/IMG_20261114_153409.230.png" width="500" alt=""></a>
+
+<a href="images/IMG_20261116_162519.114.png"><img src="images/IMG_20261116_162519.114.png" width="500" alt=""></a>
