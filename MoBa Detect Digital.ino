@@ -31,8 +31,12 @@ const int GRENZE_ANALOG = 200; // Erst mal höher angesetzt (ca. 1V)
 const int GRENZE_LEER   = 950; // Ab hier gilt das Gleis als leer
 
 void setup() {
+  pinMode(LED_BUILTIN, OUTPUT);
   pinMode(LED_ANALOG, OUTPUT);
   pinMode(LED_DIGITAL, OUTPUT);
+
+  digitalWrite(LED_BUILTIN, HIGH);
+  
   Serial.begin(115200);
 }
 
